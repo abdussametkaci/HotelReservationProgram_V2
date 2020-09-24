@@ -1,0 +1,34 @@
+FSM Oteli, 1, Tek Yataklı, 0, , 
+FSM Oteli, 2, Tek Yataklı, 0, , 
+FSM Oteli, 3, Tek Yataklı, 0, null, null
+FSM Oteli, 4, Tek Yataklı, 0, null, null
+Ak Otel, 3, Çift Yataklı, 0, null, null
+Mavi Otel, 2, Tek Yataklı, 1, 10-05-2019/14-05-2019, 66666666666
+Mavi Otel, 3, Çift Yataklı, 0, null, null
+Sarı Otel, 1, Çift Yataklı, 0, , 
+Sarı Otel, 2, Tek Yataklı, 0, null, null
+Destan Otel, 2, Çift Yataklı, 0, , 
+Destan Otel, 3, Tek Yataklı, 0, null, null
+Nizam Otel, 1, Tek Yataklı, 0, null, null
+Nizam Otel, 2, Tek Yataklı, 1, 03-05-2019/06-05-2019, 33333333333
+Nizam Otel, 3, Çift Yataklı, 0, null, null
+Akhisar Otel, 1, Çift Yataklı, 0, null, null
+Akhisar Otel, 2, Tek Yataklı, 0, null, null
+Akhisar Otel, 3, Tek Yataklı, 0, null, null
+FSM Oteli, 1, Tek Yataklı, 0, , 
+FSM Oteli, 2, Tek Yataklı, 0, , 
+FSM Oteli, 3, Tek Yataklı, 0, null, null
+FSM Oteli, 4, Tek Yataklı, 0, null, null
+Ak Otel, 3, Çift Yataklı, 0, null, null
+Mavi Otel, 2, Tek Yataklı, 1, 10-05-2019/14-05-2019, 66666666666
+Mavi Otel, 3, Çift Yataklı, 0, null, null
+Sarı Otel, 1, Çift Yataklı, 0, , 
+Sarı Otel, 2, Tek Yataklı, 0, null, null
+Destan Otel, 2, Çift Yataklı, 0, , 
+Destan Otel, 3, Tek Yataklı, 0, null, null
+Nizam Otel, 1, Tek Yataklı, 0, null, null
+Nizam Otel, 2, Tek Yataklı, 1, 03-05-2019/06-05-2019, 33333333333
+Nizam Otel, 3, Çift Yataklı, 0, null, null
+Akhisar Otel, 1, Çift Yataklı, 0, null, null
+Akhisar Otel, 2, Tek Yataklı, 0, null, null
+Akhisar Otel, 3, Tek Yataklı, 0, null, null

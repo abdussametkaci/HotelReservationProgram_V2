@@ -1,0 +1,4 @@
+Ahmet, Ak, 11111111111, ak@gmail.com, Erkek, 5678908900, 25, ak123, ak1453,  , 0,  , 0
+Fatma, Yesil, 33333333333, yesil@gmail.com, Kadın, 3456789809, 20, yesil123, yesil1453, Nizam Otel, 2, Kahvaltı, 700
+Mustafa, Mor, 44444444444, mor@gmail.com, Erkek, 4562348977, 33, mor123, mor1453,  , 0,  , 0
+Ali, Nizam, 66666666666, nizam@gmail.com, Erkek, 4567890999, 20, nizam123, nizam1453, Mavi Otel, 2, Havuz, Oda Servisi, 1000
